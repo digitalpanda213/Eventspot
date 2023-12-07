@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/aeUHzojM2p7bXo84qkS6Y0Kfrg3IeH3o1sH9oTeQy+2G4pxyfwoxYkjcAbV0AuaPUL0cYwzGSGk+xkiXfsPBg==",
+  "dgSpecHash": "IPq2BrvquGuUn3FsxQxCICnXOFvdRRb6UHsZUEcF8wvMG0fRJs/p8E4QImApQMxiOuvBkE7WT04BqCzQR3yA4g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\digit\\Insync\\digitalpanda213@gmail.com\\Documents\\GitHub\\Udemy-react-NET\\Reactivities\\Application\\Application.csproj",
+  "projectFilePath": "c:\\Users\\digit\\Insync\\digitalpanda213@gmail.com\\Documents\\GitHub\\Udemy-react-NET\\Reactivities\\Application\\Application.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\digit\\.nuget\\packages\\microsoft.data.sqlite.core\\7.0.13\\microsoft.data.sqlite.core.7.0.13.nupkg.sha512",
     "C:\\Users\\digit\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.13\\microsoft.entityframeworkcore.7.0.13.nupkg.sha512",

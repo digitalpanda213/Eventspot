@@ -1781,11 +1781,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\digit\\Insync\\digitalpanda213@gmail.com\\Documents\\GitHub\\Udemy-react-NET\\Reactivities\\API\\API.csproj",
+      "projectUniqueName": "c:\\Users\\digit\\Insync\\digitalpanda213@gmail.com\\Documents\\GitHub\\Udemy-react-NET\\Reactivities\\API\\API.csproj",
       "projectName": "API",
-      "projectPath": "C:\\Users\\digit\\Insync\\digitalpanda213@gmail.com\\Documents\\GitHub\\Udemy-react-NET\\Reactivities\\API\\API.csproj",
+      "projectPath": "c:\\Users\\digit\\Insync\\digitalpanda213@gmail.com\\Documents\\GitHub\\Udemy-react-NET\\Reactivities\\API\\API.csproj",
       "packagesPath": "C:\\Users\\digit\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\digit\\Insync\\digitalpanda213@gmail.com\\Documents\\GitHub\\Udemy-react-NET\\Reactivities\\API\\obj\\",
+      "outputPath": "c:\\Users\\digit\\Insync\\digitalpanda213@gmail.com\\Documents\\GitHub\\Udemy-react-NET\\Reactivities\\API\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\digit\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -1802,8 +1802,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Users\\digit\\Insync\\digitalpanda213@gmail.com\\Documents\\GitHub\\Udemy-react-NET\\Reactivities\\Application\\Application.csproj": {
-              "projectPath": "C:\\Users\\digit\\Insync\\digitalpanda213@gmail.com\\Documents\\GitHub\\Udemy-react-NET\\Reactivities\\Application\\Application.csproj"
+            "c:\\Users\\digit\\Insync\\digitalpanda213@gmail.com\\Documents\\GitHub\\Udemy-react-NET\\Reactivities\\Application\\Application.csproj": {
+              "projectPath": "c:\\Users\\digit\\Insync\\digitalpanda213@gmail.com\\Documents\\GitHub\\Udemy-react-NET\\Reactivities\\Application\\Application.csproj"
             }
           }
         }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\digit\\Insync\\digitalpanda213@gmail.com\\Documents\\GitHub\\Udemy-react-NET\\Reactivities\\Persistence\\Persistence.csproj": {}
+    "c:\\Users\\digit\\Insync\\digitalpanda213@gmail.com\\Documents\\GitHub\\Udemy-react-NET\\Reactivities\\Persistence\\Persistence.csproj": {}
   },
   "projects": {
-    "C:\\Users\\digit\\Insync\\digitalpanda213@gmail.com\\Documents\\GitHub\\Udemy-react-NET\\Reactivities\\Domain\\Domain.csproj": {
+    "c:\\Users\\digit\\Insync\\digitalpanda213@gmail.com\\Documents\\GitHub\\Udemy-react-NET\\Reactivities\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\digit\\Insync\\digitalpanda213@gmail.com\\Documents\\GitHub\\Udemy-react-NET\\Reactivities\\Domain\\Domain.csproj",
+        "projectUniqueName": "c:\\Users\\digit\\Insync\\digitalpanda213@gmail.com\\Documents\\GitHub\\Udemy-react-NET\\Reactivities\\Domain\\Domain.csproj",
         "projectName": "Domain",
-        "projectPath": "C:\\Users\\digit\\Insync\\digitalpanda213@gmail.com\\Documents\\GitHub\\Udemy-react-NET\\Reactivities\\Domain\\Domain.csproj",
+        "projectPath": "c:\\Users\\digit\\Insync\\digitalpanda213@gmail.com\\Documents\\GitHub\\Udemy-react-NET\\Reactivities\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\digit\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\digit\\Insync\\digitalpanda213@gmail.com\\Documents\\GitHub\\Udemy-react-NET\\Reactivities\\Domain\\obj\\",
+        "outputPath": "c:\\Users\\digit\\Insync\\digitalpanda213@gmail.com\\Documents\\GitHub\\Udemy-react-NET\\Reactivities\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\digit\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -59,14 +59,14 @@
         }
       }
     },
-    "C:\\Users\\digit\\Insync\\digitalpanda213@gmail.com\\Documents\\GitHub\\Udemy-react-NET\\Reactivities\\Persistence\\Persistence.csproj": {
+    "c:\\Users\\digit\\Insync\\digitalpanda213@gmail.com\\Documents\\GitHub\\Udemy-react-NET\\Reactivities\\Persistence\\Persistence.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\digit\\Insync\\digitalpanda213@gmail.com\\Documents\\GitHub\\Udemy-react-NET\\Reactivities\\Persistence\\Persistence.csproj",
+        "projectUniqueName": "c:\\Users\\digit\\Insync\\digitalpanda213@gmail.com\\Documents\\GitHub\\Udemy-react-NET\\Reactivities\\Persistence\\Persistence.csproj",
         "projectName": "Persistence",
-        "projectPath": "C:\\Users\\digit\\Insync\\digitalpanda213@gmail.com\\Documents\\GitHub\\Udemy-react-NET\\Reactivities\\Persistence\\Persistence.csproj",
+        "projectPath": "c:\\Users\\digit\\Insync\\digitalpanda213@gmail.com\\Documents\\GitHub\\Udemy-react-NET\\Reactivities\\Persistence\\Persistence.csproj",
         "packagesPath": "C:\\Users\\digit\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\digit\\Insync\\digitalpanda213@gmail.com\\Documents\\GitHub\\Udemy-react-NET\\Reactivities\\Persistence\\obj\\",
+        "outputPath": "c:\\Users\\digit\\Insync\\digitalpanda213@gmail.com\\Documents\\GitHub\\Udemy-react-NET\\Reactivities\\Persistence\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\digit\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -83,8 +83,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\digit\\Insync\\digitalpanda213@gmail.com\\Documents\\GitHub\\Udemy-react-NET\\Reactivities\\Domain\\Domain.csproj": {
-                "projectPath": "C:\\Users\\digit\\Insync\\digitalpanda213@gmail.com\\Documents\\GitHub\\Udemy-react-NET\\Reactivities\\Domain\\Domain.csproj"
+              "c:\\Users\\digit\\Insync\\digitalpanda213@gmail.com\\Documents\\GitHub\\Udemy-react-NET\\Reactivities\\Domain\\Domain.csproj": {
+                "projectPath": "c:\\Users\\digit\\Insync\\digitalpanda213@gmail.com\\Documents\\GitHub\\Udemy-react-NET\\Reactivities\\Domain\\Domain.csproj"
               }
             }
           }

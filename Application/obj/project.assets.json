@@ -1179,11 +1179,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\digit\\Insync\\digitalpanda213@gmail.com\\Documents\\GitHub\\Udemy-react-NET\\Reactivities\\Application\\Application.csproj",
+      "projectUniqueName": "c:\\Users\\digit\\Insync\\digitalpanda213@gmail.com\\Documents\\GitHub\\Udemy-react-NET\\Reactivities\\Application\\Application.csproj",
       "projectName": "Application",
-      "projectPath": "C:\\Users\\digit\\Insync\\digitalpanda213@gmail.com\\Documents\\GitHub\\Udemy-react-NET\\Reactivities\\Application\\Application.csproj",
+      "projectPath": "c:\\Users\\digit\\Insync\\digitalpanda213@gmail.com\\Documents\\GitHub\\Udemy-react-NET\\Reactivities\\Application\\Application.csproj",
       "packagesPath": "C:\\Users\\digit\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\digit\\Insync\\digitalpanda213@gmail.com\\Documents\\GitHub\\Udemy-react-NET\\Reactivities\\Application\\obj\\",
+      "outputPath": "c:\\Users\\digit\\Insync\\digitalpanda213@gmail.com\\Documents\\GitHub\\Udemy-react-NET\\Reactivities\\Application\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\digit\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -1200,11 +1200,11 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "C:\\Users\\digit\\Insync\\digitalpanda213@gmail.com\\Documents\\GitHub\\Udemy-react-NET\\Reactivities\\Domain\\Domain.csproj": {
-              "projectPath": "C:\\Users\\digit\\Insync\\digitalpanda213@gmail.com\\Documents\\GitHub\\Udemy-react-NET\\Reactivities\\Domain\\Domain.csproj"
+            "c:\\Users\\digit\\Insync\\digitalpanda213@gmail.com\\Documents\\GitHub\\Udemy-react-NET\\Reactivities\\Domain\\Domain.csproj": {
+              "projectPath": "c:\\Users\\digit\\Insync\\digitalpanda213@gmail.com\\Documents\\GitHub\\Udemy-react-NET\\Reactivities\\Domain\\Domain.csproj"
             },
-            "C:\\Users\\digit\\Insync\\digitalpanda213@gmail.com\\Documents\\GitHub\\Udemy-react-NET\\Reactivities\\Persistence\\Persistence.csproj": {
-              "projectPath": "C:\\Users\\digit\\Insync\\digitalpanda213@gmail.com\\Documents\\GitHub\\Udemy-react-NET\\Reactivities\\Persistence\\Persistence.csproj"
+            "c:\\Users\\digit\\Insync\\digitalpanda213@gmail.com\\Documents\\GitHub\\Udemy-react-NET\\Reactivities\\Persistence\\Persistence.csproj": {
+              "projectPath": "c:\\Users\\digit\\Insync\\digitalpanda213@gmail.com\\Documents\\GitHub\\Udemy-react-NET\\Reactivities\\Persistence\\Persistence.csproj"
             }
           }
         }
