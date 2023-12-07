@@ -41,12 +41,12 @@ namespace Persistence
                 {
                     new Activity
                     {
-                        Title = "Past Activity 1",
+                        Title = "Charlotte Tech Meetup",
                         Date = DateTime.UtcNow.AddMonths(-2),
                         Description = "Activity 2 months ago",
-                        Category = "drinks",
-                        City = "London",
-                        Venue = "Pub",
+                        Category = "tech",
+                        City = "Charlotte",
+                        Venue = "Starbucks",
                         Attendees = new List<ActivityAttendee>
                         {
                             new ActivityAttendee
@@ -58,12 +58,12 @@ namespace Persistence
                     },
                     new Activity
                     {
-                        Title = "Past Activity 2",
+                        Title = "Singles Mingle Night!",
                         Date = DateTime.UtcNow.AddMonths(-1),
                         Description = "Activity 1 month ago",
-                        Category = "culture",
-                        City = "Paris",
-                        Venue = "The Louvre",
+                        Category = "social",
+                        City = "Charlotte",
+                        Venue = "The Local Pub",
                         Attendees = new List<ActivityAttendee>
                         {
                             new ActivityAttendee
@@ -80,12 +80,12 @@ namespace Persistence
                     },
                     new Activity
                     {
-                        Title = "Future Activity 1",
+                        Title = "Opera in the Park",
                         Date = DateTime.UtcNow.AddMonths(1),
                         Description = "Activity 1 month in future",
                         Category = "music",
-                        City = "London",
-                        Venue = "Wembly Stadium",
+                        City = "Charlotte",
+                        Venue = "Freedom Park",
                         Attendees = new List<ActivityAttendee>
                         {
                             new ActivityAttendee
@@ -102,12 +102,12 @@ namespace Persistence
                     },
                     new Activity
                     {
-                        Title = "Future Activity 2",
+                        Title = "EDM Wendsday @ The Z Lounge",
                         Date = DateTime.UtcNow.AddMonths(2),
                         Description = "Activity 2 months in future",
-                        Category = "food",
-                        City = "London",
-                        Venue = "Jamies Italian",
+                        Category = "music",
+                        City = "Charlotte",
+                        Venue = "The Z Lounge",
                         Attendees = new List<ActivityAttendee>
                         {
                             new ActivityAttendee
@@ -124,12 +124,12 @@ namespace Persistence
                     },
                     new Activity
                     {
-                        Title = "Future Activity 3",
+                        Title = "UFC Fight Night @ O'Calahans",
                         Date = DateTime.UtcNow.AddMonths(3),
                         Description = "Activity 3 months in future",
-                        Category = "drinks",
-                        City = "London",
-                        Venue = "Pub",
+                        Category = "sports",
+                        City = "Raleigh",
+                        Venue = "O'Calahans",
                         Attendees = new List<ActivityAttendee>
                         {
                             new ActivityAttendee
@@ -146,12 +146,12 @@ namespace Persistence
                     },
                     new Activity
                     {
-                        Title = "Future Activity 4",
+                        Title = "Silent Disco @ The Park",
                         Date = DateTime.UtcNow.AddMonths(4),
                         Description = "Activity 4 months in future",
-                        Category = "culture",
-                        City = "London",
-                        Venue = "British Museum",
+                        Category = "music",
+                        City = "Charlotte",
+                        Venue = "Park",
                         Attendees = new List<ActivityAttendee>
                         {
                             new ActivityAttendee
@@ -163,12 +163,12 @@ namespace Persistence
                     },
                     new Activity
                     {
-                        Title = "Future Activity 5",
+                        Title = "Charlotte Pottery Club",
                         Date = DateTime.UtcNow.AddMonths(5),
                         Description = "Activity 5 months in future",
-                        Category = "drinks",
-                        City = "London",
-                        Venue = "Punch and Judy",
+                        Category = "arts",
+                        City = "Charlotte",
+                        Venue = "Clayworks",
                         Attendees = new List<ActivityAttendee>
                         {
                             new ActivityAttendee
